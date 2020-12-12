@@ -1,0 +1,26 @@
+{
+    "1":{
+        "name":"Hana Michell",
+        "job":"Designer",
+        "img":"https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8YXZhdGFyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "info":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis qui quod unde tempore delectus eligendi doloribus ipsum excepturi mollitia corporis? Dolorem quis accusantium sequi dolor aliquid, hic praesentium minima. Reiciendis?"
+    },
+    "2":{
+        "name":"Deniz Kunt",
+        "job":"Marketing",
+        "img":"https://randomuser.me/api/portraits/med/men/71.jpg",
+        "info":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis qui quod unde tempore delectus eligendi doloribus ipsum excepturi mollitia corporis? Dolorem quis accusantium sequi dolor aliquid, hic praesentium minima. Reiciendis?"
+    },
+    "3":{
+        "name":"Patrick Zhang",
+        "job":"HR",
+        "img":"https://randomuser.me/api/portraits/med/men/54.jpg",
+        "info":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis qui quod unde tempore delectus eligendi doloribus ipsum excepturi mollitia corporis? Dolorem quis accusantium sequi dolor aliquid, hic praesentium minima. Reiciendis?"
+    },
+    "4":{
+        "name":"Lothar Dammann",
+        "job":"Developer",
+        "img":"https://randomuser.me/api/portraits/med/men/86.jpg",
+        "info":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis qui quod unde tempore delectus eligendi doloribus ipsum excepturi mollitia corporis? Dolorem quis accusantium sequi dolor aliquid, hic praesentium minima. Reiciendis?"
+    }
+}
